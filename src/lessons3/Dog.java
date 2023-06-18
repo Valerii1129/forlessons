@@ -9,5 +9,4 @@ public class Dog extends Animal{
     public void setName(String name) {
         this.name = name;
     }
-
 }
