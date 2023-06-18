@@ -17,7 +17,6 @@ public class Main {
         //cat or dog
         Scanner scnr = new Scanner(System.in);
         String selected = scnr.nextLine();
-
         if (selected.equals("cat")) {
             cat.eat();
         } else if (selected.equals("dog")) {
